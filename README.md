@@ -28,8 +28,7 @@ This lab is worth **10 points**, allocated according to the following criteria/r
   - full points if the image that appears on the canvas is a coherent composite image made up of multiple basic shapes
   - 1 point if the image is disjointed or incoherent, or is mostly derivative of one of the textbook examples
 - 1 point: Submitted complete and on time
-  - "submitted" on replit.com (hit the "submit" button)
-  - uploaded to Sakai as .zip archive (from replit, look at the menu in the "files" area, choose "download" to save a .zip archive of your work)
+  - source code uploaded to Sakai as .zip archive or as individual files (index.html + script.js) 
   - link to the project included in the Sakai submission comments box (copy from the address bar in your browser)
 
 
